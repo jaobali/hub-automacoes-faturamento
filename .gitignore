@@ -1,2 +1,8 @@
 .next
 node_modules
+pyproject.toml
+.python-version
+.venv
+requirements.txt
+uv.lock
+
