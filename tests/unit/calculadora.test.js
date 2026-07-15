@@ -1,10 +1,4 @@
-test(
-    "espero que 1 seja 1",
-    () => {
-        expect(1).toBe(1)
-    }
-)
-
+// Teste com a API
 test("API soma", async () => {
     const response = await fetch(
         "http://localhost:8000/somar?a=1&b=2"
