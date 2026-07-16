@@ -1,8 +1,9 @@
 .next
 node_modules
+
 pyproject.toml
 .python-version
-.venv
-requirements.txt
+backend/.venv
+backend/requirements.txt
 uv.lock
 
