@@ -1,9 +1,4 @@
-.next
-node_modules
-
-pyproject.toml
-.python-version
+frontend/.next
+frontend/node_modules
 backend/.venv
-backend/requirements.txt
-uv.lock
 
