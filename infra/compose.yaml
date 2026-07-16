@@ -4,11 +4,6 @@ services:
 
     env_file:
       - ../.env
-
-    environment:
-      POSTGRES_PASSWORD: "local_password"
-      POSTGRES_USER: "postgres"
-      POSTGRES_DB: "hub"
     
     ports:
       - "5432:5432"
