@@ -5,7 +5,7 @@ conn = psycopg.connect(
     port=5432,
     dbname="hub",
     user="postgres",
-    password="postgres",
+    password="local_password",
 )
 
 with conn.cursor() as cur:

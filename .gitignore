@@ -1,4 +1,19 @@
+# Next.js
 frontend/.next
 frontend/node_modules
-backend/.venv
 
+# Python
+backend/.venv
+backend/__pycache__
+backend/.pytest_cache
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code (opcional)
+.vscode
