@@ -1,3 +1,5 @@
+// Não ta funcionando por causa da arquitetura de Node só no front
+
 {
     "compilerOptions": {
         "baseUrl": "."
