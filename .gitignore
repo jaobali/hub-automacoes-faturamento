@@ -3,8 +3,9 @@ frontend/.next
 frontend/node_modules
 
 # Python
+__pycache__/
+*.py[cod]
 backend/.venv
-backend/__pycache__
 backend/.pytest_cache
 
 # Variáveis de ambiente
